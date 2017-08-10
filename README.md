@@ -1,10 +1,11 @@
 # SHA-512mpp
-This is Source codes for SHA-512 with a message preprocessing. The technical description will be given later.
+This is source codes for SHA-512 with a message preprocessing. The technical description will be given later.
 
 ## Requirements
 CUDA 7.5 or 8.0
 
 ## How to build
+To build the executable file from source codes, follow the instructions below:
 1. Modify variables in makefile. 
 2. make
 3. make testRun
